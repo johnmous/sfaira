@@ -156,3 +156,4 @@ dmypy.json
 
 # Jetbrains IDE
 .idea/
+.idea/*
